@@ -13,7 +13,7 @@ const Design = StyleSheet.create({
     lh1: {
         alignSelf: 'center',
         fontSize: 36,
-        fontWeight: '700',
+        fontWeight: '600',
         marginTop: 50,
         marginBottom: 30,
         color: '#ffffff',
@@ -22,7 +22,7 @@ const Design = StyleSheet.create({
     lh2: {
         alignSelf: 'center',
         fontSize: 20,
-        fontWeight: 'bold',
+        fontWeight: '600',
         fontFamily: 'inter',
         color: 'white',
     },
