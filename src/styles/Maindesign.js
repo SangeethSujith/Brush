@@ -9,6 +9,7 @@ const Maindesign = StyleSheet.create({
     text: {
         fontSize: 20,
         fontWeight: 'bold',
+        fontFamily:'inter'
     },
 });
 
