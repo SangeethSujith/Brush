@@ -75,8 +75,9 @@ const Design = StyleSheet.create({
     },
     logintxt: {
         color: '#fff',
-        fontWeight: '500',
+        fontWeight: '600',
         fontSize: 20,
+        fontFamily:'inter',
         alignSelf: 'center',
         marginHorizontal: 17,
     },
@@ -96,16 +97,19 @@ const Design = StyleSheet.create({
         fontSize: 14,
         fontWeight: '500',
         alignSelf: 'flex-end',
+        fontFamily:'inter',
         marginHorizontal: 30,
         marginTop: 3,
     },
     prereg: {
         fontSize: 20,
         color: '#000',
+        fontFamily:'inter',
     },
     register: {
         alignSelf: 'center',
         fontSize: 20,
+        fontFamily:'inter',
         color: '#1F37B7',
     },
     b1: {
@@ -172,6 +176,7 @@ const Design = StyleSheet.create({
         fontSize: 20,
         alignSelf: 'center',
         marginHorizontal: 10,
+        fontFamily:'inter',
     },
 });
 export default Design;
