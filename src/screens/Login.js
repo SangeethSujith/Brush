@@ -51,7 +51,6 @@ const Login = ({ navigation }) => {
                 </TouchableOpacity>
             </View>
             <View style={Design.b2}>
-
                 <Image style={{ height: 14, width: 319 }} source={require('../images/ldot.png')} />
             </View>
         </View>
