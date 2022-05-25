@@ -5,7 +5,6 @@ import Carousel from 'react-native-snap-carousel/src/carousel/Carousel';
 import { sliderdata } from '../data/data';
 import { windowWidth } from '../data/dimensions';
 import Bannerslider from '../data/Bannerslider';
-import listitem from '../data/listitem';
 const Home = () => {
     const renderbanner = ({ item,index }) => {
         return <Bannerslider data={item} />
@@ -35,7 +34,6 @@ const Home = () => {
                 itemWidth={300}
                 loop={true}
             />
-            <listitem/>
         </View>
     );
 };
