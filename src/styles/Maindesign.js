@@ -13,7 +13,7 @@ const Maindesign = StyleSheet.create({
   },
   //HOME PAGE DESIGN
   homecontainer:{
-      flex:1,
+      
       marginTop:30,
       marginHorizontal:20,
   },
